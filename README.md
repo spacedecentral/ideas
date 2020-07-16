@@ -1,2 +1,3 @@
-# ideas
-Space Decentral project ideas
+- Create a new issue to share an idea for a Space Decentral project (this can be a media project, a research project, a space mission)
+- In the issue, describe the help you are looking for
+- Share the link to the issue in our #ideas channel in our chatroom
